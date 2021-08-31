@@ -13,15 +13,14 @@
 
 *To be continued ...*
 
----
+## Contact
+- `gisbi.kim@gmail.com`
+
 ## Plan
 - Other geometric optimization for SLAM
     - Non-rigid ICP 
     - Rotation initialization 
     - ...
-- Trying GTSAM integration with Open3D, Pytorch, etc ... 
-
-## Contact
-- `gisbi.kim@gmail.com`
+- Trying GTSAM integration with Open3D, scipy, Pytorch, etc ... 
 
 
