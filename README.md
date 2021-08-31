@@ -11,4 +11,17 @@
     - Dependencies: numpy, GTSAM (python)
     - The datasets are available from https://lucacarlone.mit.edu/datasets/
 
+*To be continued ...*
+
+---
+## Plan
+- Other geometric optimization for SLAM
+    - Non-rigid ICP 
+    - Rotation initialization 
+    - ...
+- Trying GTSAM integration with Open3D, Pytorch, etc ... 
+
+## Contact
+- `gisbi.kim@gmail.com`
+
 
