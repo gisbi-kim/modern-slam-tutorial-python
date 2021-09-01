@@ -1,0 +1,75 @@
+
+the below lines are from the SLAM++ paper's README.txt (2017 IJRR SLAM++ - A highly efficient and temporally scalable incremental SLAM framework)
+
+---------------------------------------------------
+- Datasets
+---------------------------------------------------
+
+The following text contains information about sources of dataset files
+available to download.
+
+Guildford cathedral [7]
+---------------------------------------------------
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/cathedral.zip/download
+
+Guildford cathedral - incremental version [7]
+---------------------------------------------------
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/cathedral_inc.zip/download
+
+Venice - incremental version [6]
+---------------------------------------------------
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/venice_inc.zip/download
+
+intel [4]
+---------------------------------------------------
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/intel.txt/download
+
+manhattanOlson3500 [2]
+---------------------------------------------------
+modification: the information values have been squared
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/manhattanOlson3500.txt/download
+
+10kHog-man  [1]
+---------------------------------------------------
+modification: order of information values has been changed
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/10kHog-man.txt/download
+
+10k [1]
+---------------------------------------------------
+modification: order of information values has been changed
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/10k.txt/download
+
+100k [1]
+---------------------------------------------------
+modification: order of information values has been changed
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/100k.txt/download
+
+city10k [3]
+---------------------------------------------------
+modification: the information values have been squared
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/city10k.txt/download
+
+cityTrees10k [3]
+---------------------------------------------------
+modification: the information values have been squared
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/cityTrees10k.txt/download
+
+Victoria park [4]
+---------------------------------------------------
+modification: the information values have been squared
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/victoria-park.txt/download
+
+Killian court [5]
+---------------------------------------------------
+modification: the information values have been squared and the order changed
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/killian-court.txt/download
+
+sphere2500.txt [3]
+---------------------------------------------------
+modification: the information values have been converted from RPY to axis angle
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/sphere2500.txt/download
+
+parking-garage.txt [6]
+---------------------------------------------------
+modification: the information values have been converted from RPY to axis angle
+download: http://sourceforge.net/projects/slam-plus-plus/files/data/parking-garage.txt/download
